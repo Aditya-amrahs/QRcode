@@ -1,3 +1,4 @@
+## Pushed to Github
                                  #### FIRST METHOD FOR QR CODE####
 # python3 -m pip install pyqrcode in cmd
 # python3 -m pip install pypng in cmd
